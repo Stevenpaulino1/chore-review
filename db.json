@@ -1,0 +1,16 @@
+{
+  "chores": [
+    {
+      "title": "test",
+      "priority": "medium",
+      "duration": "1 hour",
+      "id": 4
+    },
+    {
+      "title": "walk the cat",
+      "duration": "6 hours",
+      "priority": "last time",
+      "id": 8
+    }
+  ]
+}
